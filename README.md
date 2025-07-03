@@ -27,3 +27,16 @@ This project simulates the detection of suspicious network behavior — specific
 
 ## 📁 Project Structure
 
+mdns-threat-detection/
+├── README.md
+├── pcaps/
+│ └── suspicious-mdns.pcapng
+├── splunk/
+│ ├── mdns-threat-detection-spl.spl
+│ ├── https-tunnel-detection.spl
+│ └── https-tunnel-detection.png
+├── images/
+│ ├── packet-analysis.png
+│ └── https-tunnel-traffic.png
+└── report/
+└── mdns-threat-analysis.pdf
